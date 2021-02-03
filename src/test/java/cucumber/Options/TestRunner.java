@@ -11,6 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 //                 ,tags= {"@DeletePlace"}
 //                  mvn test -Dcucumber.options="--tags @AddPlace"
 //                  mvn verify
+// C:\Users\HP\GitStuff
 )
 public class TestRunner {
 
